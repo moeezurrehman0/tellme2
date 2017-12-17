@@ -1,0 +1,13 @@
+pistols
+stairs
+power socket
+rifles
+cups
+cupboards
+bags
+knife
+tables
+balls
+chairs
+cars
+shelves
